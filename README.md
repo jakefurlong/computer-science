@@ -1,0 +1,3 @@
+# Computer Science Degree Equivalent
+
+I found a free, open source, online equivalent to a bachelor's degree in computer science: [Open Source Society University](https://github.com/ossu/computer-science). I majored in business in college which has served me very well thus far; however, I still felt that, as a self-taught engineer/developer, there were significant gaps in my knowledge. I embarked on a journey to complete all of the content recommended by OSSU. This repository serves as a proof source for those looking to validate my knowledge/skills acquired through a traditional computer science education.
