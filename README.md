@@ -13,6 +13,8 @@ High School Math: the requirement can be met by taking algebra, geometry, and pr
 - Integrated Math 2
 - Integrated Math 3
 
+KA just restructured all of their content so I will have to go back and re-complete all of these sections. Once finished, I will post screenshots here to provide some sort of artifact to support my proof of completition.
+
 ## Intro CS
 
 ### Introduction to Programming
