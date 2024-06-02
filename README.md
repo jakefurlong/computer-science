@@ -23,4 +23,4 @@ CS50's Introduction to Computer Science - Harvard [edX](https://www.edx.org/lear
 
 This course will be next!
 
-MITx 6.001x: Introduction to Computer Science and Programming Using Python - MIT [edx](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=679fe342dc22b02039b0f6958dd35bdd&position=2&results_level=first-level-results&term=computer+science&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+MITx 6.001x: Introduction to Computer Science and Programming Using Python - MIT [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=679fe342dc22b02039b0f6958dd35bdd&position=2&results_level=first-level-results&term=computer+science&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
