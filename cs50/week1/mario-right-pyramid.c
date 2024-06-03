@@ -1,7 +1,7 @@
 // Create a left-justified pyramid of blocks (a la Mario Bros)
 #include <stdio.h>
 
-void print_row(int length);
+void print_pyramid(int height);
 
 int main(void)
 {
@@ -14,21 +14,25 @@ int main(void)
         scanf("%d", &height);
     }
     while (height <= 0);
-    
-
-    // loop through the height and call the print_row function to produce incrementally longer rows
-    for (int j = 0; j < height; j++)
-    {
-        print_row(j + 1);
-    }
+    print_pyramid(height);
 }
 
 // generate row of blocks
-void print_row(int length)
+void print_pyramid(int height)
 {
-    for (int i = 0; i < length; i++)
+    // build the pyramid
+    for (int i = 1; i <= height; i++)
     {
-        printf("#");
+        // build the leading spaces
+        for (int j = 0; j < height - i; j++)
+        {
+            printf(" ");
+        }
+        // build the blocks
+        for (int k = 0; k < i; k++)
+        {
+            printf("#");
+        }
+        printf("\n");
     }
-    printf("\n");
 }
